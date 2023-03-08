@@ -1,0 +1,9 @@
+/.tmp
+/.vscode
+**/.DS_Store
+/svg
+node_modules
+/scripts
+/src
+.npmignore
+.gitignore

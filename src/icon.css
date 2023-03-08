@@ -1,0 +1,18 @@
+.ant-icon {
+  width: var(--md-icon-size);
+  height: var(--md-icon-size);
+  display: inline-flex;
+  user-select: none;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+  transition: color 0.4s ease;
+}
+
+.ant-icon > svg {
+  height: 100%;
+  flex: 1;
+  transition: fill 0.4s ease;
+  overflow: hidden;
+  fill: currentColor;
+}

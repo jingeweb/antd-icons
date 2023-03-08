@@ -1,0 +1,33 @@
+{
+  "name": "jinge-antd-icons",
+  "version": "0.0.1",
+  "description": "ant-design icons for jinge framework",
+  "main": "lib/index.js",
+  "scripts": {
+    "generate": "node ./scripts/generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jingeweb/jinge-antd-icons.git"
+  },
+  "keywords": [
+    "ant-design",
+    "antd",
+    "icon",
+    "jinge"
+  ],
+  "author": "YuhangGe <abeyuhang@gmail.com>",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jingeweb/jinge-antd-icons/issues"
+  },
+  "homepage": "https://github.com/jingeweb/jinge-antd-icons#readme",
+  "devDependencies": {
+    "jinge-compiler": "^3.2.3",
+    "jinge": "^3.2.3",
+    "svgo": "^3.0.2"
+  },
+  "peerDependencies": {
+    "jinge": ">= 3.2.3"
+  }
+}

@@ -1,0 +1,8 @@
+/.tmp
+/.vscode
+**/.DS_Store
+/compiler/__icons.js
+/lib
+/svg
+node_modules
+/icons
